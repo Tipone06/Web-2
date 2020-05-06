@@ -1,0 +1,25 @@
+#main{
+  display: grid;
+  grid-template-columns: 40px 1fr;
+}
+.Ologin{
+  text-align: center;
+}
+.O{
+  font-size: 200%;
+  color: orange;
+}
+.textbox{
+  font-size: 30px;
+}
+.picO{
+  height: 38px;
+  width: 38px;
+  border: 1px red solid;
+  border-right: none;
+}
+.sign{
+  height: 40px;
+  width: 100px;
+  font-size: 20px;
+}

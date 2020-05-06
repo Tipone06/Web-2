@@ -1,0 +1,11 @@
+#main{
+  display: grid;
+  grid-template-columns: 235px 1fr;
+}
+.sign{
+  text-align: center;
+  font-size: 60px;
+}
+.pha{
+  margin: 0px;
+}
